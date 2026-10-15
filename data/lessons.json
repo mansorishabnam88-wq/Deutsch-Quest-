@@ -1,1 +1,11 @@
-
+{
+  "lessons": [
+    {
+      "id": "lesson-01",
+      "file": "data/lessons/lesson-01.json",
+      "title": "Lektion 1 – Umzug, Wohnung & Kommunikation",
+      "description": "113 Wörter und Redemittel aus deiner Liste: Struktur, Beispielsatz, Übersetzung und Aussprache.",
+      "label": "LEKTION 01 · TAGESQUEST"
+    }
+  ]
+}
