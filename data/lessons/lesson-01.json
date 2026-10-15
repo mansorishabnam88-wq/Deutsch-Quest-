@@ -1,1 +1,912 @@
-
+{
+  "id": "lesson-01",
+  "label": "LEKTION 01 · TAGESQUEST",
+  "title": "Lektion 1 – Umzug, Wohnung & Kommunikation",
+  "description": "113 Wörter und Redemittel aus deiner Liste: Struktur, Beispielsatz, Übersetzung und Aussprache.",
+  "entries": [
+    {
+      "de": "der Umzugsablauf",
+      "fa": "روند اسباب‌کشی",
+      "structure": "der Ablauf von + Dativ",
+      "example": "Wir planen den Umzugsablauf gemeinsam.",
+      "translation": "ما روند اسباب‌کشی را با هم برنامه‌ریزی می‌کنیم.",
+      "type": "Nomen"
+    },
+    {
+      "de": "der Mangel",
+      "fa": "ایراد، نقص",
+      "structure": "ein Mangel an + Dativ",
+      "example": "In der Wohnung gibt es einen erheblichen Mangel.",
+      "translation": "در آپارتمان یک نقص قابل‌توجه وجود دارد.",
+      "type": "Nomen"
+    },
+    {
+      "de": "die Mängelmeldung",
+      "fa": "گزارش نقص",
+      "structure": "eine Mängelmeldung einreichen",
+      "example": "Ich habe die Mängelmeldung schriftlich eingereicht.",
+      "translation": "من گزارش نقص را کتبی ارائه کرده‌ام.",
+      "type": "Nomen"
+    },
+    {
+      "de": "durchführen",
+      "fa": "انجام دادن",
+      "structure": "etwas durchführen (Akkusativ)",
+      "example": "Die Firma führt die Reparatur morgen durch.",
+      "translation": "شرکت فردا تعمیر را انجام می‌دهد.",
+      "type": "Verb"
+    },
+    {
+      "de": "verhandeln",
+      "fa": "مذاکره کردن",
+      "structure": "mit + Dativ verhandeln; über + Akkusativ",
+      "example": "Wir verhandeln mit dem Vermieter über die Kosten.",
+      "translation": "ما با صاحب‌خانه درباره هزینه‌ها مذاکره می‌کنیم.",
+      "type": "Verb"
+    },
+    {
+      "de": "der Mitbürger",
+      "fa": "شهروند دیگر، هم‌وطن",
+      "structure": "Plural: die Mitbürger",
+      "example": "Wir sollten unsere Mitbürger respektieren.",
+      "translation": "ما باید به شهروندان دیگر احترام بگذاریم.",
+      "type": "Nomen"
+    },
+    {
+      "de": "aufmerksam machen",
+      "fa": "توجه کسی را جلب کردن",
+      "structure": "jemanden auf + Akkusativ aufmerksam machen",
+      "example": "Ich möchte Sie auf den Mangel aufmerksam machen.",
+      "translation": "می‌خواهم توجه شما را به این نقص جلب کنم.",
+      "type": "Verb"
+    },
+    {
+      "de": "die Spedition",
+      "fa": "شرکت حمل‌ونقل بار",
+      "structure": "eine Spedition beauftragen",
+      "example": "Wir beauftragen eine Spedition mit dem Umzug.",
+      "translation": "ما یک شرکت حمل‌ونقل را برای اسباب‌کشی مأمور می‌کنیم.",
+      "type": "Nomen"
+    },
+    {
+      "de": "die Festplatte",
+      "fa": "هارد دیسک",
+      "structure": "Daten auf der Festplatte speichern",
+      "example": "Die Daten sind auf der Festplatte gespeichert.",
+      "translation": "اطلاعات روی هارد ذخیره شده‌اند.",
+      "type": "Nomen"
+    },
+    {
+      "de": "der Internetanschluss",
+      "fa": "اتصال اینترنت",
+      "structure": "einen Internetanschluss beantragen",
+      "example": "Ich brauche einen neuen Internetanschluss.",
+      "translation": "من به اتصال اینترنت جدیدی نیاز دارم.",
+      "type": "Nomen"
+    },
+    {
+      "de": "derselben",
+      "fa": "همان؛ شکل صرف‌شده",
+      "structure": "in derselben Wohnung; mit derselben Firma",
+      "example": "Wir wohnen in derselben Straße.",
+      "translation": "ما در همان خیابان زندگی می‌کنیم.",
+      "type": "Form"
+    },
+    {
+      "de": "eher klein",
+      "fa": "نسبتاً کوچک",
+      "structure": "eher + Adjektiv",
+      "example": "Die Wohnung ist eher klein, aber hell.",
+      "translation": "آپارتمان نسبتاً کوچک است، اما روشن است.",
+      "type": "Ausdruck"
+    },
+    {
+      "de": "teilweise",
+      "fa": "تاحدی، بخشی از",
+      "structure": "teilweise + Satz",
+      "example": "Die Straße ist teilweise gesperrt.",
+      "translation": "بخشی از خیابان بسته است.",
+      "type": "Adverb"
+    },
+    {
+      "de": "ehemalig",
+      "fa": "سابق",
+      "structure": "der ehemalige Arbeitgeber",
+      "example": "Mein ehemaliger Arbeitgeber war sehr freundlich.",
+      "translation": "کارفرمای سابقم بسیار مهربان بود.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "zusätzlich",
+      "fa": "اضافی، علاوه بر آن",
+      "structure": "zusätzliche Kosten",
+      "example": "Für den Transport entstehen zusätzliche Kosten.",
+      "translation": "برای حمل‌ونقل هزینه‌های اضافی ایجاد می‌شود.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "anstoßen",
+      "fa": "برخورد کردن؛ به سلامتی نوشیدن",
+      "structure": "mit + Dativ anstoßen; auf + Akkusativ anstoßen",
+      "example": "Die Tür ist an den Schrank angestoßen.",
+      "translation": "در به کمد برخورد کرده است.",
+      "type": "Verb"
+    },
+    {
+      "de": "abgeben",
+      "fa": "تحویل دادن",
+      "structure": "etwas bei + Dativ abgeben",
+      "example": "Bitte geben Sie die Unterlagen am Empfang ab.",
+      "translation": "لطفاً مدارک را در پذیرش تحویل دهید.",
+      "type": "Verb"
+    },
+    {
+      "de": "hinterlegen",
+      "fa": "به امانت/ثبت گذاشتن",
+      "structure": "etwas bei + Dativ hinterlegen",
+      "example": "Sie können den Schlüssel beim Hausmeister hinterlegen.",
+      "translation": "می‌توانید کلید را نزد سرایدار بگذارید.",
+      "type": "Verb"
+    },
+    {
+      "de": "beauftragen",
+      "fa": "مأمور کردن، سفارش دادن",
+      "structure": "jemanden mit + Dativ beauftragen",
+      "example": "Wir beauftragen einen Handwerker mit der Reparatur.",
+      "translation": "ما یک تعمیرکار را برای تعمیر مأمور می‌کنیم.",
+      "type": "Verb"
+    },
+    {
+      "de": "einholen",
+      "fa": "دریافت کردن، کسب کردن",
+      "structure": "ein Angebot / eine Genehmigung einholen",
+      "example": "Vor dem Auftrag holen wir ein Angebot ein.",
+      "translation": "پیش از سفارش، پیشنهاد قیمت می‌گیریم.",
+      "type": "Verb"
+    },
+    {
+      "de": "nachfragen",
+      "fa": "پیگیری/سؤال کردن",
+      "structure": "bei + Dativ nachfragen; nach + Dativ fragen",
+      "example": "Ich frage beim Vermieter nach dem Termin nach.",
+      "translation": "من درباره وقت از صاحب‌خانه پیگیری می‌کنم.",
+      "type": "Verb"
+    },
+    {
+      "de": "entsorgen",
+      "fa": "دور انداختن اصولی",
+      "structure": "etwas fachgerecht entsorgen",
+      "example": "Alte Möbel müssen fachgerecht entsorgt werden.",
+      "translation": "مبلمان قدیمی باید اصولی دفع شوند.",
+      "type": "Verb"
+    },
+    {
+      "de": "die Verkehrsanbindung",
+      "fa": "دسترسی حمل‌ونقل",
+      "structure": "eine gute Verkehrsanbindung haben",
+      "example": "Die Wohnung hat eine gute Verkehrsanbindung.",
+      "translation": "آپارتمان دسترسی حمل‌ونقل خوبی دارد.",
+      "type": "Nomen"
+    },
+    {
+      "de": "übrigens",
+      "fa": "راستی، ضمناً",
+      "structure": "übrigens am Satzanfang",
+      "example": "Übrigens, der Techniker kommt morgen.",
+      "translation": "راستی، تکنسین فردا می‌آید.",
+      "type": "Adverb"
+    },
+    {
+      "de": "abgehen",
+      "fa": "جدا شدن، کنده شدن",
+      "structure": "ist abgegangen",
+      "example": "Ein Stück Farbe ist von der Wand abgegangen.",
+      "translation": "تکه‌ای از رنگ دیوار کنده شده است.",
+      "type": "Verb"
+    },
+    {
+      "de": "trotz",
+      "fa": "با وجودِ",
+      "structure": "trotz + Genitiv",
+      "example": "Trotz des Mangels wohnen wir dort.",
+      "translation": "با وجود نقص، آنجا زندگی می‌کنیم.",
+      "type": "Präposition"
+    },
+    {
+      "de": "wegen",
+      "fa": "به دلیلِ",
+      "structure": "wegen + Genitiv; umgangssprachlich oft Dativ",
+      "example": "Wegen des Umzugs brauche ich einen freien Tag.",
+      "translation": "به دلیل اسباب‌کشی به یک روز مرخصی نیاز دارم.",
+      "type": "Präposition"
+    },
+    {
+      "de": "aufgrund",
+      "fa": "به علتِ",
+      "structure": "aufgrund + Genitiv",
+      "example": "Aufgrund der Reparatur bleibt das Bad geschlossen.",
+      "translation": "به علت تعمیر، حمام بسته می‌ماند.",
+      "type": "Präposition"
+    },
+    {
+      "de": "verstopft sein",
+      "fa": "گرفته بودن",
+      "structure": "Der Abfluss ist verstopft.",
+      "example": "Der Abfluss ist verstopft.",
+      "translation": "لوله فاضلاب گرفته است.",
+      "type": "Ausdruck"
+    },
+    {
+      "de": "abgebrochen sein",
+      "fa": "شکسته/قطع شده بودن",
+      "structure": "etwas ist abgebrochen",
+      "example": "Der Griff ist abgebrochen.",
+      "translation": "دستگیره شکسته است.",
+      "type": "Ausdruck"
+    },
+    {
+      "de": "nicht mehr richtig schließen",
+      "fa": "دیگر درست بسته نشدن",
+      "structure": "Die Tür schließt nicht mehr richtig.",
+      "example": "Die Tür schließt nicht mehr richtig.",
+      "translation": "در دیگر درست بسته نمی‌شود.",
+      "type": "Ausdruck"
+    },
+    {
+      "de": "hochgezogen werden können",
+      "fa": "قابل بالا کشیدن بودن",
+      "structure": "Das Rollo kann nicht hochgezogen werden.",
+      "example": "Das Rollo kann nicht hochgezogen werden.",
+      "translation": "کرکره را نمی‌توان بالا کشید.",
+      "type": "Ausdruck"
+    },
+    {
+      "de": "tropfen",
+      "fa": "چکه کردن",
+      "structure": "Der Wasserhahn tropft.",
+      "example": "Der Wasserhahn tropft.",
+      "translation": "شیر آب چکه می‌کند.",
+      "type": "Verb"
+    },
+    {
+      "de": "klemmen",
+      "fa": "گیر کردن",
+      "structure": "Die Tür klemmt.",
+      "example": "Die Tür klemmt.",
+      "translation": "در گیر می‌کند.",
+      "type": "Verb"
+    },
+    {
+      "de": "nicht dicht sein",
+      "fa": "درزبند نبودن",
+      "structure": "Das Fenster ist nicht dicht.",
+      "example": "Das Fenster ist nicht dicht.",
+      "translation": "پنجره درزبندی مناسبی ندارد.",
+      "type": "Ausdruck"
+    },
+    {
+      "de": "jemanden auf dem Laufenden halten",
+      "fa": "کسی را در جریان گذاشتن",
+      "structure": "jemanden auf dem Laufenden halten",
+      "example": "Ich halte euch über den Umzug auf dem Laufenden.",
+      "translation": "شما را در جریان اسباب‌کشی می‌گذارم.",
+      "type": "Redewendung"
+    },
+    {
+      "de": "jemandem die Daumen drücken",
+      "fa": "برای کسی آرزوی موفقیت کردن",
+      "structure": "jemandem (Dativ) die Daumen drücken",
+      "example": "Drückt uns die Daumen für die Prüfung!",
+      "translation": "برای امتحان برایمان آرزوی موفقیت کنید!",
+      "type": "Redewendung"
+    },
+    {
+      "de": "Das hat ja super geklappt.",
+      "fa": "چه خوب انجام شد!",
+      "structure": "klappen = funktionieren",
+      "example": "Der Termin hat ja super geklappt.",
+      "translation": "قرار واقعاً عالی پیش رفت.",
+      "type": "Redewendung"
+    },
+    {
+      "de": "im Training sein",
+      "fa": "در تمرین بودن",
+      "structure": "gut im Training sein",
+      "example": "Wir sind für die Prüfung gut im Training.",
+      "translation": "ما برای امتحان خوب تمرین کرده‌ایم.",
+      "type": "Redewendung"
+    },
+    {
+      "de": "aus beruflichen Gründen",
+      "fa": "به دلایل شغلی",
+      "structure": "aus + Dativ",
+      "example": "Aus beruflichen Gründen muss ich umziehen.",
+      "translation": "به دلایل شغلی باید اسباب‌کشی کنم.",
+      "type": "Ausdruck"
+    },
+    {
+      "de": "Glück muss man haben.",
+      "fa": "آدم باید شانس داشته باشد.",
+      "structure": "Redewendung",
+      "example": "Der Handwerker hatte kurzfristig Zeit – Glück muss man haben.",
+      "translation": "تعمیرکار در کوتاه‌مدت وقت داشت؛ آدم باید شانس داشته باشد.",
+      "type": "Redewendung"
+    },
+    {
+      "de": "zur Entspannung",
+      "fa": "برای آرامش",
+      "structure": "zur + Dativ",
+      "example": "Nach der Arbeit gehe ich zur Entspannung spazieren.",
+      "translation": "بعد از کار برای آرامش قدم می‌زنم.",
+      "type": "Ausdruck"
+    },
+    {
+      "de": "anschrauben",
+      "fa": "پیچ کردن",
+      "structure": "etwas an + Akkusativ anschrauben",
+      "example": "Der Handwerker schraubt das Regal an die Wand.",
+      "translation": "تعمیرکار قفسه را به دیوار پیچ می‌کند.",
+      "type": "Verb"
+    },
+    {
+      "de": "Bescheid sagen",
+      "fa": "خبر دادن",
+      "structure": "jemandem (Dativ) Bescheid sagen",
+      "example": "Bitte sagen Sie mir rechtzeitig Bescheid.",
+      "translation": "لطفاً به‌موقع به من خبر دهید.",
+      "type": "Redewendung"
+    },
+    {
+      "de": "die Gliederung",
+      "fa": "ساختار، طرح‌بندی",
+      "structure": "eine Gliederung erstellen",
+      "example": "Zuerst erstellen wir eine Gliederung.",
+      "translation": "ابتدا یک طرح‌بندی تهیه می‌کنیم.",
+      "type": "Nomen"
+    },
+    {
+      "de": "der Riss",
+      "fa": "ترک",
+      "structure": "einen Riss haben",
+      "example": "Die Wand hat einen langen Riss.",
+      "translation": "دیوار یک ترک بلند دارد.",
+      "type": "Nomen"
+    },
+    {
+      "de": "bei Bedarf",
+      "fa": "در صورت نیاز",
+      "structure": "bei Bedarf + Verb",
+      "example": "Bei Bedarf können wir einen Termin vereinbaren.",
+      "translation": "در صورت نیاز می‌توانیم یک قرار تعیین کنیم.",
+      "type": "Ausdruck"
+    },
+    {
+      "de": "die Nachbesserung",
+      "fa": "رفع نقص، اصلاح مجدد",
+      "structure": "eine Nachbesserung verlangen",
+      "example": "Ich bitte um eine kostenlose Nachbesserung.",
+      "translation": "درخواست اصلاح رایگان نقص را دارم.",
+      "type": "Nomen"
+    },
+    {
+      "de": "der Boiler",
+      "fa": "آب‌گرم‌کن",
+      "structure": "der Boiler funktioniert nicht",
+      "example": "Der Boiler funktioniert seit gestern nicht.",
+      "translation": "آب‌گرم‌کن از دیروز کار نمی‌کند.",
+      "type": "Nomen"
+    },
+    {
+      "de": "sich beziehen auf",
+      "fa": "اشاره داشتن به",
+      "structure": "sich auf + Akkusativ beziehen",
+      "example": "Ich beziehe mich auf Ihre E-Mail vom Montag.",
+      "translation": "به ایمیل دوشنبه شما اشاره می‌کنم.",
+      "type": "Verb"
+    },
+    {
+      "de": "sich verständigen",
+      "fa": "با هم به تفاهم رسیدن",
+      "structure": "sich mit + Dativ verständigen",
+      "example": "Wir konnten uns mit dem Vermieter verständigen.",
+      "translation": "توانستیم با صاحب‌خانه به تفاهم برسیم.",
+      "type": "Verb"
+    },
+    {
+      "de": "beheben",
+      "fa": "برطرف کردن",
+      "structure": "einen Fehler / Mangel beheben",
+      "example": "Die Firma muss den Schaden schnell beheben.",
+      "translation": "شرکت باید خسارت را سریع برطرف کند.",
+      "type": "Verb"
+    },
+    {
+      "de": "vereinbaren",
+      "fa": "توافق/تعیین کردن",
+      "structure": "einen Termin mit + Dativ vereinbaren",
+      "example": "Wir vereinbaren einen Termin für die Reparatur.",
+      "translation": "برای تعمیر یک وقت تعیین می‌کنیم.",
+      "type": "Verb"
+    },
+    {
+      "de": "sich an etwas erinnern",
+      "fa": "چیزی را به یاد آوردن",
+      "structure": "sich an + Akkusativ erinnern",
+      "example": "Ich erinnere mich an den vereinbarten Termin.",
+      "translation": "قرار تعیین‌شده را به یاد دارم.",
+      "type": "Verb"
+    },
+    {
+      "de": "reagieren auf",
+      "fa": "واکنش نشان دادن به",
+      "structure": "auf + Akkusativ reagieren",
+      "example": "Der Vermieter reagiert nicht auf meine Nachricht.",
+      "translation": "صاحب‌خانه به پیام من واکنش نشان نمی‌دهد.",
+      "type": "Verb"
+    },
+    {
+      "de": "ausfallen",
+      "fa": "لغو/از کار افتادن",
+      "structure": "fällt aus; ist ausgefallen",
+      "example": "Der Termin fällt heute aus.",
+      "translation": "قرار امروز لغو می‌شود.",
+      "type": "Verb"
+    },
+    {
+      "de": "hiermit",
+      "fa": "بدین‌وسیله",
+      "structure": "hiermit + Verb",
+      "example": "Hiermit bestätige ich den Eingang Ihrer Nachricht.",
+      "translation": "بدین‌وسیله دریافت پیام شما را تأیید می‌کنم.",
+      "type": "Adverb"
+    },
+    {
+      "de": "schriftlich",
+      "fa": "کتبی",
+      "structure": "schriftlich bestätigen",
+      "example": "Bitte bestätigen Sie den Termin schriftlich.",
+      "translation": "لطفاً قرار را کتبی تأیید کنید.",
+      "type": "Adverb"
+    },
+    {
+      "de": "dringend",
+      "fa": "فوری",
+      "structure": "dringend erforderlich",
+      "example": "Die Reparatur ist dringend erforderlich.",
+      "translation": "تعمیر فوراً لازم است.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "im Voraus",
+      "fa": "از قبل",
+      "structure": "sich im Voraus bedanken",
+      "example": "Vielen Dank im Voraus für Ihre Hilfe.",
+      "translation": "از قبل بابت کمک شما بسیار سپاسگزارم.",
+      "type": "Ausdruck"
+    },
+    {
+      "de": "die Branche",
+      "fa": "صنعت، حوزه کاری",
+      "structure": "in einer Branche arbeiten",
+      "example": "Sie arbeitet seit Jahren in der IT-Branche.",
+      "translation": "او سال‌هاست در حوزه فناوری اطلاعات کار می‌کند.",
+      "type": "Nomen"
+    },
+    {
+      "de": "die Vorschrift",
+      "fa": "مقررات",
+      "structure": "gegen eine Vorschrift verstoßen",
+      "example": "Alle Mitarbeitenden müssen die Vorschriften beachten.",
+      "translation": "همه کارکنان باید مقررات را رعایت کنند.",
+      "type": "Nomen"
+    },
+    {
+      "de": "der Streit",
+      "fa": "اختلاف، دعوا",
+      "structure": "Streit mit + Dativ; einen Streit schlichten",
+      "example": "Wir wollen den Streit ruhig lösen.",
+      "translation": "می‌خواهیم اختلاف را آرام حل کنیم.",
+      "type": "Nomen"
+    },
+    {
+      "de": "die sanitären Anlagen",
+      "fa": "تأسیسات بهداشتی",
+      "structure": "sanitäre Anlagen reinigen",
+      "example": "Die sanitären Anlagen müssen repariert werden.",
+      "translation": "تأسیسات بهداشتی باید تعمیر شوند.",
+      "type": "Nomen"
+    },
+    {
+      "de": "leiten",
+      "fa": "مدیریت/هدایت کردن",
+      "structure": "ein Team / eine Besprechung leiten",
+      "example": "Frau Keller leitet das Team.",
+      "translation": "خانم کلر تیم را مدیریت می‌کند.",
+      "type": "Verb"
+    },
+    {
+      "de": "schlichten",
+      "fa": "حل‌وفصل کردن",
+      "structure": "einen Streit schlichten",
+      "example": "Ein Mediator hilft, den Streit zu schlichten.",
+      "translation": "میانجی کمک می‌کند اختلاف حل‌وفصل شود.",
+      "type": "Verb"
+    },
+    {
+      "de": "züchten",
+      "fa": "پرورش دادن",
+      "structure": "Tiere / Pflanzen züchten",
+      "example": "Der Betrieb züchtet seltene Pflanzen.",
+      "translation": "این مجموعه گیاهان کمیاب پرورش می‌دهد.",
+      "type": "Verb"
+    },
+    {
+      "de": "sich selbstständig machen",
+      "fa": "کسب‌وکار مستقل راه انداختن",
+      "structure": "sich mit etwas selbstständig machen",
+      "example": "Sie möchte sich mit einem kleinen Geschäft selbstständig machen.",
+      "translation": "او می‌خواهد با یک فروشگاه کوچک کسب‌وکار مستقل راه بیندازد.",
+      "type": "Verb"
+    },
+    {
+      "de": "erstellen",
+      "fa": "تهیه/ایجاد کردن",
+      "structure": "einen Plan / ein Dokument erstellen",
+      "example": "Bitte erstellen Sie einen Kostenvoranschlag.",
+      "translation": "لطفاً برآورد هزینه تهیه کنید.",
+      "type": "Verb"
+    },
+    {
+      "de": "achten auf",
+      "fa": "توجه کردن به",
+      "structure": "auf + Akkusativ achten",
+      "example": "Worauf muss ich achten?",
+      "translation": "باید به چه چیزی توجه کنم؟",
+      "type": "Verb"
+    },
+    {
+      "de": "draußen / drinnen",
+      "fa": "بیرون / داخل",
+      "structure": "draußen warten; drinnen bleiben",
+      "example": "Bitte warten Sie draußen; wir sind drinnen.",
+      "translation": "لطفاً بیرون منتظر بمانید؛ ما داخل هستیم.",
+      "type": "Adverb"
+    },
+    {
+      "de": "die Genehmigung",
+      "fa": "مجوز",
+      "structure": "eine Genehmigung beantragen",
+      "example": "Für den Umbau brauchen wir eine Genehmigung.",
+      "translation": "برای بازسازی به مجوز نیاز داریم.",
+      "type": "Nomen"
+    },
+    {
+      "de": "die Hygieneanforderung",
+      "fa": "الزام بهداشتی",
+      "structure": "Hygieneanforderungen erfüllen",
+      "example": "Der Betrieb muss alle Hygieneanforderungen erfüllen.",
+      "translation": "مجموعه باید همه الزامات بهداشتی را رعایت کند.",
+      "type": "Nomen"
+    },
+    {
+      "de": "die Lärmbelästigung",
+      "fa": "مزاحمت صوتی",
+      "structure": "sich über + Akkusativ beschweren",
+      "example": "Die Nachbarn beschweren sich über die Lärmbelästigung.",
+      "translation": "همسایه‌ها از مزاحمت صوتی شکایت می‌کنند.",
+      "type": "Nomen"
+    },
+    {
+      "de": "die Ruhezeit",
+      "fa": "ساعت استراحت/سکوت",
+      "structure": "Ruhezeiten einhalten",
+      "example": "Während der Ruhezeit darf man keinen Lärm machen.",
+      "translation": "در ساعت سکوت نباید سروصدا کرد.",
+      "type": "Nomen"
+    },
+    {
+      "de": "der Gewinn",
+      "fa": "سود",
+      "structure": "einen Gewinn erzielen",
+      "example": "Das Unternehmen hat im letzten Jahr Gewinn erzielt.",
+      "translation": "شرکت سال گذشته سود به دست آورد.",
+      "type": "Nomen"
+    },
+    {
+      "de": "das Übergabeprotokoll",
+      "fa": "صورت‌جلسه تحویل",
+      "structure": "ein Übergabeprotokoll unterschreiben",
+      "example": "Bei der Wohnungsübergabe unterschreiben wir das Übergabeprotokoll.",
+      "translation": "هنگام تحویل آپارتمان صورت‌جلسه را امضا می‌کنیم.",
+      "type": "Nomen"
+    },
+    {
+      "de": "die Übergabe",
+      "fa": "تحویل",
+      "structure": "bei der Übergabe",
+      "example": "Die Übergabe der Wohnung findet am Freitag statt.",
+      "translation": "تحویل آپارتمان روز جمعه انجام می‌شود.",
+      "type": "Nomen"
+    },
+    {
+      "de": "benachbart",
+      "fa": "مجاور، همسایه",
+      "structure": "das benachbarte Gebäude",
+      "example": "Das benachbarte Haus wird renoviert.",
+      "translation": "خانه مجاور در حال بازسازی است.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "ausreichend",
+      "fa": "کافی",
+      "structure": "ausreichend Zeit / Geld",
+      "example": "Wir haben ausreichend Zeit für die Vorbereitung.",
+      "translation": "برای آماده‌سازی وقت کافی داریم.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "vorhanden",
+      "fa": "موجود",
+      "structure": "vorhanden sein",
+      "example": "Alle notwendigen Unterlagen sind vorhanden.",
+      "translation": "همه مدارک لازم موجود هستند.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "überschreiten",
+      "fa": "تجاوز کردن از حد",
+      "structure": "eine Grenze / Frist überschreiten",
+      "example": "Bitte überschreiten Sie die Ruhezeiten nicht.",
+      "translation": "لطفاً محدودیت‌های ساعت سکوت را نقض نکنید.",
+      "type": "Verb"
+    },
+    {
+      "de": "vorbeikommen",
+      "fa": "سر زدن",
+      "structure": "bei + Dativ vorbeikommen",
+      "example": "Können Sie morgen bei mir vorbeikommen?",
+      "translation": "می‌توانید فردا به من سر بزنید؟",
+      "type": "Verb"
+    },
+    {
+      "de": "untervermieten",
+      "fa": "به زیرمستأجر اجاره دادن",
+      "structure": "eine Wohnung untervermieten",
+      "example": "Ohne Erlaubnis darf man die Wohnung nicht untervermieten.",
+      "translation": "بدون اجازه نمی‌توان آپارتمان را به زیرمستأجر داد.",
+      "type": "Verb"
+    },
+    {
+      "de": "abklären",
+      "fa": "روشن/بررسی کردن",
+      "structure": "etwas mit + Dativ abklären",
+      "example": "Ich muss die Details mit der Hausverwaltung abklären.",
+      "translation": "باید جزئیات را با مدیریت ساختمان روشن کنم.",
+      "type": "Verb"
+    },
+    {
+      "de": "bestehen",
+      "fa": "وجود داشتن؛ قبول شدن؛ تشکیل شدن",
+      "structure": "aus + Dativ bestehen; eine Prüfung bestehen",
+      "example": "Der Vertrag besteht aus drei Seiten.",
+      "translation": "قرارداد از سه صفحه تشکیل شده است.",
+      "type": "Verb"
+    },
+    {
+      "de": "dokumentieren",
+      "fa": "مستند کردن",
+      "structure": "etwas schriftlich dokumentieren",
+      "example": "Bitte dokumentieren Sie den Schaden mit Fotos.",
+      "translation": "لطفاً خسارت را با عکس مستند کنید.",
+      "type": "Verb"
+    },
+    {
+      "de": "sich wenden an",
+      "fa": "مراجعه کردن به",
+      "structure": "sich an + Akkusativ wenden",
+      "example": "Bei Fragen wenden Sie sich bitte an die Verwaltung.",
+      "translation": "در صورت سؤال لطفاً به مدیریت مراجعه کنید.",
+      "type": "Verb"
+    },
+    {
+      "de": "die Unterlagen",
+      "fa": "مدارک",
+      "structure": "Unterlagen einreichen / mitbringen",
+      "example": "Bitte bringen Sie alle Unterlagen mit.",
+      "translation": "لطفاً همه مدارک را همراه بیاورید.",
+      "type": "Nomen"
+    },
+    {
+      "de": "einen Mietvertrag unterschreiben",
+      "fa": "قرارداد اجاره را امضا کردن",
+      "structure": "einen Mietvertrag ausfüllen / abschließen",
+      "example": "Ich unterschreibe den Mietvertrag nächste Woche.",
+      "translation": "هفته آینده قرارداد اجاره را امضا می‌کنم.",
+      "type": "Ausdruck"
+    },
+    {
+      "de": "einen Nachsendeantrag stellen",
+      "fa": "درخواست ارسال مجدد پست ثبت کردن",
+      "structure": "einen Antrag stellen / ausfüllen / abgeben",
+      "example": "Nach dem Umzug stelle ich einen Nachsendeantrag.",
+      "translation": "بعد از اسباب‌کشی درخواست ارسال مجدد پست ثبت می‌کنم.",
+      "type": "Ausdruck"
+    },
+    {
+      "de": "Unterlagen ordnen",
+      "fa": "مدارک را مرتب کردن",
+      "structure": "ordnen / zusammenstellen / mitbringen",
+      "example": "Vor dem Termin ordne ich die Unterlagen.",
+      "translation": "پیش از قرار مدارک را مرتب می‌کنم.",
+      "type": "Ausdruck"
+    },
+    {
+      "de": "einen Umzug planen",
+      "fa": "اسباب‌کشی را برنامه‌ریزی کردن",
+      "structure": "einen Umzug vorbereiten / durchführen",
+      "example": "Wir planen den Umzug für Ende des Monats.",
+      "translation": "اسباب‌کشی را برای پایان ماه برنامه‌ریزی می‌کنیم.",
+      "type": "Ausdruck"
+    },
+    {
+      "de": "das Erdgeschoss",
+      "fa": "طبقه همکف",
+      "structure": "im Erdgeschoss wohnen",
+      "example": "Die Wohnung liegt im Erdgeschoss.",
+      "translation": "آپارتمان در طبقه همکف قرار دارد.",
+      "type": "Nomen"
+    },
+    {
+      "de": "Im wievielten Stock?",
+      "fa": "در طبقه چندم؟",
+      "structure": "in welchem Stockwerk?",
+      "example": "In welchem Stock wohnen Sie? – Im dritten Stock.",
+      "translation": "در کدام طبقه زندگی می‌کنید؟ ـ طبقه سوم.",
+      "type": "Frage"
+    },
+    {
+      "de": "mitnehmen",
+      "fa": "همراه بردن",
+      "structure": "etwas / jemanden mitnehmen",
+      "example": "Ich nehme die wichtigen Unterlagen mit.",
+      "translation": "مدارک مهم را همراه می‌برم.",
+      "type": "Verb"
+    },
+    {
+      "de": "sich überlegen",
+      "fa": "فکر کردن، در نظر گرفتن",
+      "structure": "sich etwas (Akkusativ) überlegen",
+      "example": "Ich überlege mir, ob ich umziehen soll.",
+      "translation": "دارم فکر می‌کنم که آیا اسباب‌کشی کنم یا نه.",
+      "type": "Verb"
+    },
+    {
+      "de": "Ich bräuchte bitte ein Angebot.",
+      "fa": "لطفاً یک پیشنهاد قیمت می‌خواهم.",
+      "structure": "höfliche Form mit Konjunktiv II",
+      "example": "Ich bräuchte bitte ein Angebot für den Umzug.",
+      "translation": "لطفاً برای اسباب‌کشی یک پیشنهاد قیمت می‌خواهم.",
+      "type": "Redewendung"
+    },
+    {
+      "de": "Das müsste klappen.",
+      "fa": "باید جور شود / احتمالاً جواب می‌دهد.",
+      "structure": "müsste + Infinitiv",
+      "example": "Wenn wir früh anfangen, müsste das klappen.",
+      "translation": "اگر زود شروع کنیم، باید جور شود.",
+      "type": "Redewendung"
+    },
+    {
+      "de": "Am liebsten wäre mir …",
+      "fa": "ترجیح من این است که…",
+      "structure": "Konjunktiv II: wäre",
+      "example": "Am liebsten wäre mir ein Termin am Freitag.",
+      "translation": "ترجیح من یک قرار در روز جمعه است.",
+      "type": "Redewendung"
+    },
+    {
+      "de": "Könnten Sie mir bitte ein Angebot schreiben?",
+      "fa": "ممکن است لطفاً یک پیشنهاد قیمت برایم بنویسید؟",
+      "structure": "höfliche Bitte: Könnten Sie …?",
+      "example": "Könnten Sie mir bitte ein Angebot schreiben?",
+      "translation": "ممکن است لطفاً یک پیشنهاد قیمت برایم بنویسید؟",
+      "type": "Redewendung"
+    },
+    {
+      "de": "die Bemühung",
+      "fa": "تلاش",
+      "structure": "sich um etwas bemühen",
+      "example": "Vielen Dank für Ihre Bemühungen.",
+      "translation": "از تلاش‌های شما سپاسگزارم.",
+      "type": "Nomen"
+    },
+    {
+      "de": "die Unannehmlichkeit",
+      "fa": "زحمت، ناراحتی",
+      "structure": "Unannehmlichkeiten verursachen",
+      "example": "Wir entschuldigen uns für die Unannehmlichkeiten.",
+      "translation": "بابت زحمتی که ایجاد شده عذرخواهی می‌کنیم.",
+      "type": "Nomen"
+    },
+    {
+      "de": "herumstehen",
+      "fa": "بی‌استفاده/سرگردان ماندن",
+      "structure": "herumstehen; herumgestanden",
+      "example": "Die Kartons stehen seit Tagen im Flur herum.",
+      "translation": "کارتن‌ها چند روز است در راهرو مانده‌اند.",
+      "type": "Verb"
+    },
+    {
+      "de": "es handelt sich um",
+      "fa": "موضوع درباره چیزی بودن",
+      "structure": "es handelt sich um + Akkusativ",
+      "example": "Es handelt sich um einen dringenden Reparaturfall.",
+      "translation": "موضوع یک مورد تعمیر فوری است.",
+      "type": "Ausdruck"
+    },
+    {
+      "de": "mindern um",
+      "fa": "به میزان چیزی کاهش دادن",
+      "structure": "etwas um + Akkusativ mindern",
+      "example": "Wir möchten die Miete um zehn Prozent mindern.",
+      "translation": "می‌خواهیم اجاره را ده درصد کاهش دهیم.",
+      "type": "Verb"
+    },
+    {
+      "de": "bis auf Weiteres",
+      "fa": "تا اطلاع ثانوی",
+      "structure": "bis auf Weiteres geschlossen",
+      "example": "Die Waschküche bleibt bis auf Weiteres geschlossen.",
+      "translation": "رخت‌شوی‌خانه تا اطلاع ثانوی بسته می‌ماند.",
+      "type": "Ausdruck"
+    },
+    {
+      "de": "werktags",
+      "fa": "روزهای کاری",
+      "structure": "werktags von … bis …",
+      "example": "Der Hausmeister ist werktags erreichbar.",
+      "translation": "سرایدار در روزهای کاری در دسترس است.",
+      "type": "Adverb"
+    },
+    {
+      "de": "erreichbar",
+      "fa": "در دسترس",
+      "structure": "telefonisch erreichbar sein",
+      "example": "Ich bin am Nachmittag telefonisch erreichbar.",
+      "translation": "بعدازظهر از طریق تلفن در دسترس هستم.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "mittlerweile",
+      "fa": "در این فاصله، اکنون",
+      "structure": "mittlerweile + Satz",
+      "example": "Mittlerweile ist die Reparatur abgeschlossen.",
+      "translation": "در این فاصله تعمیر به پایان رسیده است.",
+      "type": "Adverb"
+    },
+    {
+      "de": "in großer Eile",
+      "fa": "با عجله زیاد",
+      "structure": "in Eile sein",
+      "example": "Ich war in großer Eile und habe den Schlüssel vergessen.",
+      "translation": "خیلی عجله داشتم و کلید را فراموش کردم.",
+      "type": "Ausdruck"
+    },
+    {
+      "de": "mithilfe von",
+      "fa": "با کمکِ",
+      "structure": "mithilfe von + Dativ",
+      "example": "Mithilfe von Fotos konnten wir den Schaden dokumentieren.",
+      "translation": "با کمک عکس‌ها توانستیم خسارت را مستند کنیم.",
+      "type": "Präposition"
+    },
+    {
+      "de": "Baden bekommt Risse",
+      "fa": "یادداشت مبهم از دفتر؛ اصل عبارت را بررسی کن",
+      "structure": "عبارت احتمالاً نیاز به بازبینی از روی عکس/متن اصلی دارد",
+      "example": "Die Wand bekommt Risse.",
+      "translation": "دیوار ترک برمی‌دارد.",
+      "type": "Notiz"
+    }
+  ]
+}
