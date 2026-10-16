@@ -1,1 +1,1208 @@
-
+{
+  "id": "lesson-02",
+  "label": "LEKTION 02 · TAGESQUEST",
+  "title": "Lektion 2 – Kommunikation, Team & Arbeitswelt",
+  "description": "150 Wörter und Redemittel aus deiner Liste: Struktur, Beispielsatz, Übersetzung und Aussprache.",
+  "items": [
+    {
+      "de": "der Artikel",
+      "fa": "مقاله / جنسیت دستوری",
+      "structure": "der Artikel",
+      "example": "Ich lese den Artikel über Teamarbeit.",
+      "translation": "من مقاله درباره کار تیمی را می‌خوانم.",
+      "type": "Nomen"
+    },
+    {
+      "de": "das Protokoll",
+      "fa": "صورت‌جلسه",
+      "structure": "das Protokoll",
+      "example": "Ich schreibe das Protokoll der Sitzung.",
+      "translation": "من صورت‌جلسه جلسه را می‌نویسم.",
+      "type": "Nomen"
+    },
+    {
+      "de": "die Geige",
+      "fa": "ویولن",
+      "structure": "die Geige",
+      "example": "Sie spielt sehr gut Geige.",
+      "translation": "او خیلی خوب ویولن می‌نوازد.",
+      "type": "Nomen"
+    },
+    {
+      "de": "führen",
+      "fa": "هدایت کردن / اداره کردن",
+      "structure": "etwas führen",
+      "example": "Er führt ein kleines Unternehmen.",
+      "translation": "او یک شرکت کوچک را اداره می‌کند.",
+      "type": "Verb"
+    },
+    {
+      "de": "die Rundmail",
+      "fa": "ایمیل گروهی",
+      "structure": "die Rundmail an + Akk.",
+      "example": "Wir schicken eine Rundmail an alle Mitarbeitenden.",
+      "translation": "ما یک ایمیل گروهی برای همه کارکنان می‌فرستیم.",
+      "type": "Nomen"
+    },
+    {
+      "de": "ein lockerer Ton",
+      "fa": "لحن صمیمی",
+      "structure": "ein lockerer Ton",
+      "example": "In unserem Team herrscht ein lockerer Ton.",
+      "translation": "در تیم ما لحن صمیمی حاکم است.",
+      "type": "Redemittel"
+    },
+    {
+      "de": "der Klatsch",
+      "fa": "غیبت / حرف‌های پشت سر دیگران",
+      "structure": "der Klatsch",
+      "example": "Ich interessiere mich nicht für Klatsch.",
+      "translation": "من به غیبت علاقه‌ای ندارم.",
+      "type": "Nomen"
+    },
+    {
+      "de": "das Gerät",
+      "fa": "دستگاه",
+      "structure": "das Gerät",
+      "example": "Das Gerät funktioniert nicht richtig.",
+      "translation": "دستگاه درست کار نمی‌کند.",
+      "type": "Nomen"
+    },
+    {
+      "de": "die Absprache",
+      "fa": "هماهنگی / توافق قبلی",
+      "structure": "eine Absprache mit + Dat.",
+      "example": "Wir treffen eine Absprache mit dem Team.",
+      "translation": "ما با تیم هماهنگی می‌کنیم.",
+      "type": "Nomen"
+    },
+    {
+      "de": "sich einführen",
+      "fa": "خود را معرفی کردن / وارد کردن",
+      "structure": "sich in etwas einführen",
+      "example": "Der neue Mitarbeiter muss sich erst in die Abläufe einführen.",
+      "translation": "کارمند جدید ابتدا باید با روندها آشنا شود.",
+      "type": "Verb"
+    },
+    {
+      "de": "zu tun haben",
+      "fa": "سر و کار داشتن",
+      "structure": "mit + Dat. zu tun haben",
+      "example": "Ich habe heute viel mit Kunden zu tun.",
+      "translation": "امروز کار زیادی با مشتریان دارم.",
+      "type": "Redemittel"
+    },
+    {
+      "de": "sich an etwas halten",
+      "fa": "به چیزی پایبند بودن",
+      "structure": "sich an + Akk. halten",
+      "example": "Bitte halten Sie sich an die Regeln.",
+      "translation": "لطفاً به قوانین پایبند باشید.",
+      "type": "Verb"
+    },
+    {
+      "de": "vertauschen",
+      "fa": "جابه‌جا اشتباه گرفتن",
+      "structure": "etwas mit etwas vertauschen",
+      "example": "Ich habe die beiden Dokumente vertauscht.",
+      "translation": "من دو سند را با هم اشتباه جابه‌جا کردم.",
+      "type": "Verb"
+    },
+    {
+      "de": "loben",
+      "fa": "تحسین کردن",
+      "structure": "jemanden für + Akk. loben",
+      "example": "Die Chefin lobt ihn für seine gute Arbeit.",
+      "translation": "رئیس او را به خاطر کار خوبش تحسین می‌کند.",
+      "type": "Verb"
+    },
+    {
+      "de": "verlangen",
+      "fa": "درخواست کردن / مطالبه کردن",
+      "structure": "etwas verlangen",
+      "example": "Der Kunde verlangt eine Erklärung.",
+      "translation": "مشتری درخواست توضیح می‌کند.",
+      "type": "Verb"
+    },
+    {
+      "de": "souverän",
+      "fa": "مسلط / بااعتمادبه‌نفس",
+      "structure": "souverän auftreten",
+      "example": "Sie tritt im Gespräch souverän auf.",
+      "translation": "او در گفتگو مسلط و بااعتمادبه‌نفس ظاهر می‌شود.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "überlastet",
+      "fa": "بیش از حد تحت فشار",
+      "structure": "überlastet sein",
+      "example": "Ich bin momentan völlig überlastet.",
+      "translation": "من در حال حاضر کاملاً تحت فشار هستم.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "zurückhaltend",
+      "fa": "محتاط / کم‌حرف",
+      "structure": "zurückhaltend sein",
+      "example": "Er ist am Anfang eher zurückhaltend.",
+      "translation": "او در ابتدا نسبتاً کم‌حرف است.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "unvoreingenommen",
+      "fa": "بی‌طرف / بدون پیش‌داوری",
+      "structure": "unvoreingenommen sein",
+      "example": "Wir sollten unvoreingenommen zuhören.",
+      "translation": "ما باید بدون پیش‌داوری گوش کنیم.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "aufgeregt",
+      "fa": "هیجان‌زده / مضطرب",
+      "structure": "aufgeregt sein",
+      "example": "Vor der Präsentation bin ich sehr aufgeregt.",
+      "translation": "قبل از ارائه خیلی مضطرب هستم.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "der Werdegang",
+      "fa": "مسیر شغلی / تحصیلی",
+      "structure": "der berufliche Werdegang",
+      "example": "Sie erzählt von ihrem beruflichen Werdegang.",
+      "translation": "او درباره مسیر شغلی خود صحبت می‌کند.",
+      "type": "Nomen"
+    },
+    {
+      "de": "die Leidenschaft",
+      "fa": "اشتیاق / علاقه شدید",
+      "structure": "Leidenschaft für + Akk.",
+      "example": "Musik ist seine große Leidenschaft.",
+      "translation": "موسیقی علاقه شدید اوست.",
+      "type": "Nomen"
+    },
+    {
+      "de": "der Ansprechpartner",
+      "fa": "فرد مسئول / مخاطب",
+      "structure": "der Ansprechpartner für + Akk.",
+      "example": "Herr Müller ist mein Ansprechpartner für diese Frage.",
+      "translation": "آقای مولر فرد مسئول من برای این سؤال است.",
+      "type": "Nomen"
+    },
+    {
+      "de": "stammen",
+      "fa": "اهل / منشأ داشتن",
+      "structure": "aus + Dat. stammen",
+      "example": "Sie stammt aus Berlin.",
+      "translation": "او اهل برلین است.",
+      "type": "Verb"
+    },
+    {
+      "de": "der Tagesordnungspunkt",
+      "fa": "موضوع دستور جلسه",
+      "structure": "der Tagesordnungspunkt",
+      "example": "Der nächste Tagesordnungspunkt ist sehr wichtig.",
+      "translation": "موضوع بعدی دستور جلسه بسیار مهم است.",
+      "type": "Nomen"
+    },
+    {
+      "de": "die Anleitung",
+      "fa": "راهنما / دستورالعمل",
+      "structure": "eine Anleitung für + Akk.",
+      "example": "Bitte lesen Sie die Anleitung sorgfältig.",
+      "translation": "لطفاً دستورالعمل را با دقت بخوانید.",
+      "type": "Nomen"
+    },
+    {
+      "de": "der Entwurf",
+      "fa": "پیش‌نویس",
+      "structure": "der Entwurf für + Akk.",
+      "example": "Ich habe einen Entwurf für die Präsentation erstellt.",
+      "translation": "من یک پیش‌نویس برای ارائه تهیه کرده‌ام.",
+      "type": "Nomen"
+    },
+    {
+      "de": "das Werbemittel",
+      "fa": "ابزار تبلیغاتی",
+      "structure": "das Werbemittel",
+      "example": "Wir brauchen neue Werbemittel.",
+      "translation": "ما به ابزارهای تبلیغاتی جدید نیاز داریم.",
+      "type": "Nomen"
+    },
+    {
+      "de": "der Webauftritt",
+      "fa": "حضور / ظاهر آنلاین",
+      "structure": "der Webauftritt",
+      "example": "Unser Webauftritt soll moderner werden.",
+      "translation": "حضور آنلاین ما باید مدرن‌تر شود.",
+      "type": "Nomen"
+    },
+    {
+      "de": "zusammenstellen",
+      "fa": "جمع‌آوری و تنظیم کردن",
+      "structure": "etwas zusammenstellen",
+      "example": "Ich stelle die wichtigsten Informationen zusammen.",
+      "translation": "من مهم‌ترین اطلاعات را جمع‌آوری و تنظیم می‌کنم.",
+      "type": "Verb"
+    },
+    {
+      "de": "rausschicken",
+      "fa": "ارسال کردن",
+      "structure": "etwas rausschicken",
+      "example": "Ich schicke die Einladung heute raus.",
+      "translation": "من دعوت‌نامه را امروز ارسال می‌کنم.",
+      "type": "Verb"
+    },
+    {
+      "de": "präzise",
+      "fa": "دقیق",
+      "structure": "präzise formulieren",
+      "example": "Bitte formulieren Sie die Antwort präzise.",
+      "translation": "لطفاً پاسخ را دقیق بیان کنید.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "ausschließlich",
+      "fa": "منحصراً / فقط",
+      "structure": "ausschließlich für + Akk.",
+      "example": "Das Angebot gilt ausschließlich für Kunden.",
+      "translation": "این پیشنهاد فقط برای مشتریان معتبر است.",
+      "type": "Adverb"
+    },
+    {
+      "de": "anwesend",
+      "fa": "حاضر",
+      "structure": "anwesend sein",
+      "example": "Bei der Besprechung waren alle anwesend.",
+      "translation": "همه در جلسه حاضر بودند.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "entschuldigt",
+      "fa": "با عذر موجه غایب",
+      "structure": "entschuldigt fehlen",
+      "example": "Frau Klein ist heute entschuldigt.",
+      "translation": "خانم کلاین امروز با عذر موجه غایب است.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "sich zu Wort melden",
+      "fa": "اجازه صحبت خواستن",
+      "structure": "sich zu Wort melden",
+      "example": "Ich möchte mich kurz zu Wort melden.",
+      "translation": "می‌خواهم کوتاه صحبت کنم.",
+      "type": "Redemittel"
+    },
+    {
+      "de": "nachfragen",
+      "fa": "دوباره سؤال کردن / پیگیری کردن",
+      "structure": "bei jemandem nachfragen",
+      "example": "Ich frage beim Kunden noch einmal nach.",
+      "translation": "من دوباره از مشتری پیگیری می‌کنم.",
+      "type": "Verb"
+    },
+    {
+      "de": "zustimmen",
+      "fa": "موافقت کردن",
+      "structure": "jemandem zustimmen",
+      "example": "Ich stimme Ihnen zu.",
+      "translation": "من با شما موافقم.",
+      "type": "Verb"
+    },
+    {
+      "de": "ablehnen",
+      "fa": "رد کردن",
+      "structure": "etwas ablehnen",
+      "example": "Der Kunde lehnt das Angebot ab.",
+      "translation": "مشتری پیشنهاد را رد می‌کند.",
+      "type": "Verb"
+    },
+    {
+      "de": "Alternativvorschläge machen",
+      "fa": "پیشنهادهای جایگزین دادن",
+      "structure": "Alternativvorschläge machen",
+      "example": "Wir sollten einige Alternativvorschläge machen.",
+      "translation": "ما باید چند پیشنهاد جایگزین بدهیم.",
+      "type": "Redemittel"
+    },
+    {
+      "de": "sich einigen",
+      "fa": "به توافق رسیدن",
+      "structure": "sich auf + Akk. einigen",
+      "example": "Wir haben uns auf einen Termin geeinigt.",
+      "translation": "ما درباره یک زمان به توافق رسیدیم.",
+      "type": "Verb"
+    },
+    {
+      "de": "der zeitliche Ablauf",
+      "fa": "روند زمانی",
+      "structure": "der zeitliche Ablauf",
+      "example": "Der zeitliche Ablauf ist genau geplant.",
+      "translation": "روند زمانی دقیق برنامه‌ریزی شده است.",
+      "type": "Nomen"
+    },
+    {
+      "de": "die Siegerehrung",
+      "fa": "مراسم اهدای جوایز",
+      "structure": "die Siegerehrung",
+      "example": "Nach dem Wettbewerb findet die Siegerehrung statt.",
+      "translation": "بعد از مسابقه مراسم اهدای جوایز برگزار می‌شود.",
+      "type": "Nomen"
+    },
+    {
+      "de": "der Imbiss",
+      "fa": "غذای سبک / میان‌وعده",
+      "structure": "der Imbiss",
+      "example": "Nach der Sitzung gibt es einen kleinen Imbiss.",
+      "translation": "بعد از جلسه یک میان‌وعده کوچک وجود دارد.",
+      "type": "Nomen"
+    },
+    {
+      "de": "der Streik",
+      "fa": "اعتصاب",
+      "structure": "der Streik",
+      "example": "Wegen des Streiks fahren heute weniger Züge.",
+      "translation": "به دلیل اعتصاب امروز قطارهای کمتری حرکت می‌کنند.",
+      "type": "Nomen"
+    },
+    {
+      "de": "die Stärke",
+      "fa": "نقطه قوت / قدرت",
+      "structure": "eine Stärke von + Dat.",
+      "example": "Zuverlässigkeit ist eine Stärke von ihm.",
+      "translation": "قابل اعتماد بودن یکی از نقاط قوت اوست.",
+      "type": "Nomen"
+    },
+    {
+      "de": "vermitteln",
+      "fa": "منتقل کردن / میانجیگری کردن",
+      "structure": "jemandem etwas vermitteln",
+      "example": "Der Kurs vermittelt wichtige Kenntnisse.",
+      "translation": "این دوره دانش مهمی را منتقل می‌کند.",
+      "type": "Verb"
+    },
+    {
+      "de": "der Konservative",
+      "fa": "فرد محافظه‌کار",
+      "structure": "der Konservative",
+      "example": "Der Konservative bevorzugt traditionelle Lösungen.",
+      "translation": "فرد محافظه‌کار راه‌حل‌های سنتی را ترجیح می‌دهد.",
+      "type": "Nomen"
+    },
+    {
+      "de": "der Analytiker",
+      "fa": "تحلیل‌گر",
+      "structure": "der Analytiker",
+      "example": "Der Analytiker prüft die Daten genau.",
+      "translation": "تحلیل‌گر داده‌ها را دقیق بررسی می‌کند.",
+      "type": "Nomen"
+    },
+    {
+      "de": "der Visionär",
+      "fa": "آینده‌نگر",
+      "structure": "der Visionär",
+      "example": "Der Visionär entwickelt neue Ideen.",
+      "translation": "فرد آینده‌نگر ایده‌های جدیدی ایجاد می‌کند.",
+      "type": "Nomen"
+    },
+    {
+      "de": "die Summe",
+      "fa": "مبلغ / مجموع",
+      "structure": "die Summe von + Dat.",
+      "example": "Die Summe von 500 Euro reicht aus.",
+      "translation": "مبلغ ۵۰۰ یورو کافی است.",
+      "type": "Nomen"
+    },
+    {
+      "de": "die Kompetenz",
+      "fa": "شایستگی / مهارت",
+      "structure": "Kompetenz in + Dat.",
+      "example": "Sie hat viel Kompetenz im Bereich IT.",
+      "translation": "او در زمینه IT مهارت زیادی دارد.",
+      "type": "Nomen"
+    },
+    {
+      "de": "die Abwechslung",
+      "fa": "تنوع",
+      "structure": "Abwechslung bei + Dat.",
+      "example": "Ich brauche Abwechslung bei der Arbeit.",
+      "translation": "من در کار به تنوع نیاز دارم.",
+      "type": "Nomen"
+    },
+    {
+      "de": "der Gegenpol",
+      "fa": "نقطه مقابل",
+      "structure": "der Gegenpol zu + Dat.",
+      "example": "Er ist ein guter Gegenpol zu seinem Kollegen.",
+      "translation": "او نقطه مقابل خوبی برای همکارش است.",
+      "type": "Nomen"
+    },
+    {
+      "de": "der Perfektionist",
+      "fa": "کمال‌گرا",
+      "structure": "der Perfektionist",
+      "example": "Als Perfektionist kontrolliert er alles zweimal.",
+      "translation": "او به عنوان یک کمال‌گرا همه چیز را دو بار کنترل می‌کند.",
+      "type": "Nomen"
+    },
+    {
+      "de": "das Faktenwissen",
+      "fa": "دانش اطلاعاتی / دانستن واقعیت‌ها",
+      "structure": "das Faktenwissen",
+      "example": "Für diese Aufgabe braucht man viel Faktenwissen.",
+      "translation": "برای این کار به دانش اطلاعاتی زیادی نیاز است.",
+      "type": "Nomen"
+    },
+    {
+      "de": "die Vorgabe",
+      "fa": "دستور / الزام تعیین‌شده",
+      "structure": "eine Vorgabe beachten",
+      "example": "Wir müssen die Vorgaben beachten.",
+      "translation": "ما باید الزامات را رعایت کنیم.",
+      "type": "Nomen"
+    },
+    {
+      "de": "das Ehrenamt",
+      "fa": "فعالیت داوطلبانه",
+      "structure": "ein Ehrenamt ausüben",
+      "example": "Sie übt ein Ehrenamt im Verein aus.",
+      "translation": "او در انجمن فعالیت داوطلبانه انجام می‌دهد.",
+      "type": "Nomen"
+    },
+    {
+      "de": "unterscheiden",
+      "fa": "تمایز قائل شدن",
+      "structure": "zwischen A und B unterscheiden",
+      "example": "Man muss zwischen den beiden Begriffen unterscheiden.",
+      "translation": "باید بین این دو اصطلاح تفاوت قائل شد.",
+      "type": "Verb"
+    },
+    {
+      "de": "umsetzen",
+      "fa": "اجرا کردن",
+      "structure": "etwas umsetzen",
+      "example": "Wir wollen den Plan schnell umsetzen.",
+      "translation": "ما می‌خواهیم برنامه را سریع اجرا کنیم.",
+      "type": "Verb"
+    },
+    {
+      "de": "erproben",
+      "fa": "آزمایش و امتحان کردن",
+      "structure": "etwas erproben",
+      "example": "Wir erproben eine neue Methode.",
+      "translation": "ما یک روش جدید را آزمایش می‌کنیم.",
+      "type": "Verb"
+    },
+    {
+      "de": "ignorieren",
+      "fa": "نادیده گرفتن",
+      "structure": "etwas ignorieren",
+      "example": "Man sollte Kritik nicht ignorieren.",
+      "translation": "نباید انتقاد را نادیده گرفت.",
+      "type": "Verb"
+    },
+    {
+      "de": "legendär",
+      "fa": "افسانه‌ای",
+      "structure": "legendär sein",
+      "example": "Diese Veranstaltung ist inzwischen legendär.",
+      "translation": "این رویداد اکنون افسانه‌ای شده است.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "loyal",
+      "fa": "وفادار",
+      "structure": "jemandem loyal sein",
+      "example": "Gute Mitarbeiter sind ihrem Team loyal.",
+      "translation": "کارمندان خوب به تیم خود وفادارند.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "detailliert",
+      "fa": "جزئی و دقیق",
+      "structure": "etwas detailliert beschreiben",
+      "example": "Bitte beschreiben Sie den Ablauf detailliert.",
+      "translation": "لطفاً روند را با جزئیات توضیح دهید.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "fasziniert",
+      "fa": "شیفته / مجذوب",
+      "structure": "von + Dat. fasziniert sein",
+      "example": "Ich bin von dieser Idee fasziniert.",
+      "translation": "من شیفته این ایده هستم.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "formaltreu",
+      "fa": "وفادار به قالب / شکل اصلی",
+      "structure": "formaltreu bleiben",
+      "example": "Der Text bleibt formaltreu.",
+      "translation": "متن از نظر قالب به شکل اصلی وفادار می‌ماند.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "originell",
+      "fa": "اصیل / خلاقانه",
+      "structure": "eine originelle Idee",
+      "example": "Das ist eine originelle Idee.",
+      "translation": "این یک ایده خلاقانه است.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "konstruktiv",
+      "fa": "سازنده",
+      "structure": "konstruktive Kritik",
+      "example": "Wir brauchen konstruktive Kritik.",
+      "translation": "ما به انتقاد سازنده نیاز داریم.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "chaotisch",
+      "fa": "آشفته",
+      "structure": "chaotisch sein",
+      "example": "Der Ablauf war völlig chaotisch.",
+      "translation": "روند کاملاً آشفته بود.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "inspirierend",
+      "fa": "الهام‌بخش",
+      "structure": "inspirierend sein",
+      "example": "Die Präsentation war sehr inspirierend.",
+      "translation": "ارائه بسیار الهام‌بخش بود.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "erfolgsorientiert",
+      "fa": "موفقیت‌محور",
+      "structure": "erfolgsorientiert arbeiten",
+      "example": "Sie arbeitet sehr erfolgsorientiert.",
+      "translation": "او بسیار موفقیت‌محور کار می‌کند.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "traditionell",
+      "fa": "سنتی",
+      "structure": "traditionell sein",
+      "example": "Die Methode ist eher traditionell.",
+      "translation": "این روش نسبتاً سنتی است.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "gefühlsbetont",
+      "fa": "احساساتی / مبتنی بر احساس",
+      "structure": "gefühlsbetont reagieren",
+      "example": "Er reagiert sehr gefühlsbetont.",
+      "translation": "او خیلی احساسی واکنش نشان می‌دهد.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "vernünftig",
+      "fa": "منطقی / عاقلانه",
+      "structure": "vernünftig handeln",
+      "example": "Wir müssen vernünftig handeln.",
+      "translation": "ما باید عاقلانه رفتار کنیم.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "voreilig",
+      "fa": "شتاب‌زده",
+      "structure": "voreilig entscheiden",
+      "example": "Man sollte nicht voreilig entscheiden.",
+      "translation": "نباید شتاب‌زده تصمیم گرفت.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "motivierend",
+      "fa": "انگیزه‌بخش",
+      "structure": "motivierend sein",
+      "example": "Das Lob war sehr motivierend.",
+      "translation": "این تعریف بسیار انگیزه‌بخش بود.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "praktisch veranlagt",
+      "fa": "عمل‌گرا / اهل عمل",
+      "structure": "praktisch veranlagt sein",
+      "example": "Er ist sehr praktisch veranlagt.",
+      "translation": "او بسیار عمل‌گراست.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "enthusiastisch",
+      "fa": "مشتاق / پرشور",
+      "structure": "enthusiastisch sein",
+      "example": "Sie ist von dem Projekt begeistert und enthusiastisch.",
+      "translation": "او از پروژه هیجان‌زده و پرشور است.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "provozierend",
+      "fa": "تحریک‌آمیز",
+      "structure": "provozierend wirken",
+      "example": "Seine Aussage wirkt provozierend.",
+      "translation": "حرف او تحریک‌آمیز به نظر می‌رسد.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "pessimistisch",
+      "fa": "بدبین",
+      "structure": "pessimistisch sein",
+      "example": "Er ist oft zu pessimistisch.",
+      "translation": "او اغلب بیش از حد بدبین است.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "optimistisch",
+      "fa": "خوش‌بین",
+      "structure": "optimistisch bleiben",
+      "example": "Wir sollten optimistisch bleiben.",
+      "translation": "ما باید خوش‌بین بمانیم.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "pünktlich",
+      "fa": "وقت‌شناس",
+      "structure": "pünktlich sein",
+      "example": "Bitte seien Sie pünktlich.",
+      "translation": "لطفاً وقت‌شناس باشید.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "engagiert",
+      "fa": "متعهد / فعال",
+      "structure": "engagiert sein",
+      "example": "Sie ist im Beruf sehr engagiert.",
+      "translation": "او در شغلش بسیار متعهد است.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "die Flussreise",
+      "fa": "سفر با کشتی روی رودخانه",
+      "structure": "eine Flussreise machen",
+      "example": "Wir machen im Sommer eine Flussreise.",
+      "translation": "ما تابستان یک سفر با کشتی روی رودخانه می‌رویم.",
+      "type": "Nomen"
+    },
+    {
+      "de": "das Kinderheim",
+      "fa": "خانه کودکان / پرورشگاه",
+      "structure": "im Kinderheim arbeiten",
+      "example": "Sie arbeitet in einem Kinderheim.",
+      "translation": "او در یک خانه کودکان کار می‌کند.",
+      "type": "Nomen"
+    },
+    {
+      "de": "sich an etwas gewöhnen",
+      "fa": "به چیزی عادت کردن",
+      "structure": "sich an + Akk. gewöhnen",
+      "example": "Ich muss mich an die neue Arbeit gewöhnen.",
+      "translation": "باید به کار جدید عادت کنم.",
+      "type": "Verb"
+    },
+    {
+      "de": "entdecken",
+      "fa": "کشف کردن",
+      "structure": "etwas entdecken",
+      "example": "Wir entdecken jeden Tag etwas Neues.",
+      "translation": "ما هر روز چیز جدیدی کشف می‌کنیم.",
+      "type": "Verb"
+    },
+    {
+      "de": "der frische Wind",
+      "fa": "تغییر تازه / هوای تازه",
+      "structure": "frischen Wind bringen",
+      "example": "Die neue Kollegin bringt frischen Wind ins Team.",
+      "translation": "همکار جدید تغییر و انرژی تازه‌ای وارد تیم می‌کند.",
+      "type": "Redemittel"
+    },
+    {
+      "de": "die Vorurteile",
+      "fa": "پیش‌داوری‌ها",
+      "structure": "Vorurteile gegenüber + Dat.",
+      "example": "Wir sollten Vorurteile gegenüber anderen vermeiden.",
+      "translation": "ما باید از پیش‌داوری نسبت به دیگران پرهیز کنیم.",
+      "type": "Nomen"
+    },
+    {
+      "de": "sich anstrengen",
+      "fa": "تلاش کردن",
+      "structure": "sich anstrengen, etwas zu tun",
+      "example": "Ich strenge mich an, die Prüfung zu bestehen.",
+      "translation": "تلاش می‌کنم در امتحان قبول شوم.",
+      "type": "Verb"
+    },
+    {
+      "de": "weiterkommen",
+      "fa": "پیشرفت کردن",
+      "structure": "bei etwas weiterkommen",
+      "example": "Mit diesem Kurs komme ich beruflich weiter.",
+      "translation": "با این دوره از نظر شغلی پیشرفت می‌کنم.",
+      "type": "Verb"
+    },
+    {
+      "de": "Kritik üben",
+      "fa": "انتقاد کردن",
+      "structure": "Kritik an + Dat. üben",
+      "example": "Er übt Kritik an der Entscheidung.",
+      "translation": "او از تصمیم انتقاد می‌کند.",
+      "type": "Redemittel"
+    },
+    {
+      "de": "kritisieren",
+      "fa": "انتقاد کردن",
+      "structure": "jemanden / etwas kritisieren",
+      "example": "Man darf die Arbeit sachlich kritisieren.",
+      "translation": "می‌توان کار را به‌صورت منطقی نقد کرد.",
+      "type": "Verb"
+    },
+    {
+      "de": "jemanden mit etwas überhäufen",
+      "fa": "کسی را با چیزی بیش از حد پر کردن",
+      "structure": "jemanden mit + Dat. überhäufen",
+      "example": "Man sollte Mitarbeiter nicht mit Aufgaben überhäufen.",
+      "translation": "نباید کارکنان را با وظایف بیش از حد پر کرد.",
+      "type": "Verb"
+    },
+    {
+      "de": "verhindern",
+      "fa": "جلوگیری کردن",
+      "structure": "etwas verhindern",
+      "example": "Wir müssen Fehler verhindern.",
+      "translation": "ما باید از اشتباهات جلوگیری کنیم.",
+      "type": "Verb"
+    },
+    {
+      "de": "fair",
+      "fa": "منصفانه",
+      "structure": "fair sein",
+      "example": "Eine faire Lösung ist wichtig.",
+      "translation": "یک راه‌حل منصفانه مهم است.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "entscheidend",
+      "fa": "تعیین‌کننده",
+      "structure": "entscheidend für + Akk. sein",
+      "example": "Gute Kommunikation ist entscheidend für den Erfolg.",
+      "translation": "ارتباط خوب برای موفقیت تعیین‌کننده است.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "gelassen",
+      "fa": "آرام / خونسرد",
+      "structure": "gelassen bleiben",
+      "example": "Auch in schwierigen Situationen bleibt sie gelassen.",
+      "translation": "حتی در شرایط سخت او خونسرد می‌ماند.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "der Einzelhandelskaufmann",
+      "fa": "کارمند/فروشنده امور بازرگانی خرده‌فروشی",
+      "structure": "als Einzelhandelskaufmann arbeiten",
+      "example": "Er arbeitet als Einzelhandelskaufmann.",
+      "translation": "او به عنوان کارمند خرده‌فروشی کار می‌کند.",
+      "type": "Nomen"
+    },
+    {
+      "de": "der Urlaubsantrag",
+      "fa": "درخواست مرخصی",
+      "structure": "einen Urlaubsantrag stellen",
+      "example": "Ich möchte einen Urlaubsantrag stellen.",
+      "translation": "می‌خواهم درخواست مرخصی بدهم.",
+      "type": "Nomen"
+    },
+    {
+      "de": "gießen",
+      "fa": "آب دادن",
+      "structure": "Pflanzen gießen",
+      "example": "Ich muss die Pflanzen gießen.",
+      "translation": "باید به گیاهان آب بدهم.",
+      "type": "Verb"
+    },
+    {
+      "de": "vergeben",
+      "fa": "اعطا کردن / اختصاص دادن",
+      "structure": "einen Auftrag vergeben",
+      "example": "Die Firma vergibt den Auftrag an einen Anbieter.",
+      "translation": "شرکت سفارش را به یک ارائه‌دهنده واگذار می‌کند.",
+      "type": "Verb"
+    },
+    {
+      "de": "gespannt",
+      "fa": "مشتاق / کنجکاو",
+      "structure": "auf etwas gespannt sein",
+      "example": "Ich bin gespannt auf das Ergebnis.",
+      "translation": "مشتاق دانستن نتیجه هستم.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "kommend",
+      "fa": "آتی / پیش رو",
+      "structure": "in der kommenden Woche",
+      "example": "In der kommenden Woche haben wir eine Besprechung.",
+      "translation": "هفته آینده جلسه داریم.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "die Eislieferung",
+      "fa": "تحویل بستنی",
+      "structure": "die Eislieferung",
+      "example": "Die Eislieferung kommt am Montag.",
+      "translation": "تحویل بستنی دوشنبه می‌رسد.",
+      "type": "Nomen"
+    },
+    {
+      "de": "der Eislieferant",
+      "fa": "تأمین‌کننده بستنی",
+      "structure": "der Eislieferant",
+      "example": "Der Eislieferant kommt jeden Montag.",
+      "translation": "تأمین‌کننده بستنی هر دوشنبه می‌آید.",
+      "type": "Nomen"
+    },
+    {
+      "de": "die Aushilfskraft",
+      "fa": "نیروی کمکی",
+      "structure": "als Aushilfskraft arbeiten",
+      "example": "Sie arbeitet im Sommer als Aushilfskraft.",
+      "translation": "او تابستان به عنوان نیروی کمکی کار می‌کند.",
+      "type": "Nomen"
+    },
+    {
+      "de": "die Sommersaison",
+      "fa": "فصل تابستان",
+      "structure": "in der Sommersaison",
+      "example": "In der Sommersaison ist viel los.",
+      "translation": "در فصل تابستان کار زیاد است.",
+      "type": "Nomen"
+    },
+    {
+      "de": "der Baumarkt",
+      "fa": "فروشگاه مصالح و ابزار ساختمانی",
+      "structure": "im Baumarkt einkaufen",
+      "example": "Ich kaufe das Material im Baumarkt.",
+      "translation": "من مواد لازم را از فروشگاه ابزار و مصالح می‌خرم.",
+      "type": "Nomen"
+    },
+    {
+      "de": "klappen",
+      "fa": "خوب پیش رفتن / عملی شدن",
+      "structure": "etwas klappt",
+      "example": "Keine Sorge, das klappt schon.",
+      "translation": "نگران نباش، درست می‌شود.",
+      "type": "Verb"
+    },
+    {
+      "de": "ansprechen",
+      "fa": "مطرح کردن / خطاب قرار دادن",
+      "structure": "jemanden auf + Akk. ansprechen",
+      "example": "Ich spreche den Kollegen auf das Problem an.",
+      "translation": "من مشکل را با همکار مطرح می‌کنم.",
+      "type": "Verb"
+    },
+    {
+      "de": "prüfen",
+      "fa": "بررسی کردن",
+      "structure": "etwas prüfen",
+      "example": "Bitte prüfen Sie die Angaben.",
+      "translation": "لطفاً اطلاعات را بررسی کنید.",
+      "type": "Verb"
+    },
+    {
+      "de": "einstellen",
+      "fa": "استخدام کردن / تنظیم کردن",
+      "structure": "jemanden einstellen",
+      "example": "Die Firma stellt neue Mitarbeiter ein.",
+      "translation": "شرکت کارکنان جدید استخدام می‌کند.",
+      "type": "Verb"
+    },
+    {
+      "de": "abschließen",
+      "fa": "به پایان رساندن / منعقد کردن",
+      "structure": "etwas abschließen",
+      "example": "Wir schließen den Vertrag morgen ab.",
+      "translation": "ما قرارداد را فردا نهایی می‌کنیم.",
+      "type": "Verb"
+    },
+    {
+      "de": "abstimmen",
+      "fa": "هماهنگ کردن / رأی‌گیری کردن",
+      "structure": "etwas mit jemandem abstimmen",
+      "example": "Wir müssen den Termin mit dem Team abstimmen.",
+      "translation": "باید زمان را با تیم هماهنگ کنیم.",
+      "type": "Verb"
+    },
+    {
+      "de": "erfahren",
+      "fa": "باخبر شدن / مطلع شدن",
+      "structure": "von etwas erfahren",
+      "example": "Ich habe gestern davon erfahren.",
+      "translation": "من دیروز از آن باخبر شدم.",
+      "type": "Verb"
+    },
+    {
+      "de": "durchdacht",
+      "fa": "سنجیده / حساب‌شده",
+      "structure": "gut durchdacht sein",
+      "example": "Der Plan ist gut durchdacht.",
+      "translation": "برنامه خوب و حساب‌شده است.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "demotivierend",
+      "fa": "دلسردکننده",
+      "structure": "demotivierend wirken",
+      "example": "Ständige Kritik kann demotivierend wirken.",
+      "translation": "انتقاد مداوم می‌تواند دلسردکننده باشد.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "strukturiert",
+      "fa": "ساختارمند",
+      "structure": "strukturiert arbeiten",
+      "example": "Ich arbeite gern strukturiert.",
+      "translation": "من دوست دارم ساختارمند کار کنم.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "rational / irrational",
+      "fa": "منطقی / غیرمنطقی",
+      "structure": "rational / irrational reagieren",
+      "example": "Wir sollten rational und nicht irrational reagieren.",
+      "translation": "باید منطقی و نه غیرمنطقی واکنش نشان دهیم.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "destruktiv",
+      "fa": "مخرب",
+      "structure": "destruktive Kritik",
+      "example": "Destruktive Kritik hilft niemandem.",
+      "translation": "انتقاد مخرب به هیچ‌کس کمک نمی‌کند.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "innovativ",
+      "fa": "نوآورانه",
+      "structure": "innovative Lösungen",
+      "example": "Wir suchen innovative Lösungen.",
+      "translation": "ما به دنبال راه‌حل‌های نوآورانه هستیم.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "ausgleichend",
+      "fa": "متعادل‌کننده / آرام‌کننده",
+      "structure": "ausgleichend wirken",
+      "example": "Sie wirkt im Team sehr ausgleichend.",
+      "translation": "او در تیم بسیار متعادل‌کننده است.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "provozieren",
+      "fa": "تحریک کردن",
+      "structure": "jemanden provozieren",
+      "example": "Er wollte seinen Kollegen nicht provozieren.",
+      "translation": "او نمی‌خواست همکارش را تحریک کند.",
+      "type": "Verb"
+    },
+    {
+      "de": "unvernünftig",
+      "fa": "غیرمنطقی",
+      "structure": "unvernünftig handeln",
+      "example": "Es wäre unvernünftig, jetzt aufzugeben.",
+      "translation": "اکنون تسلیم شدن غیرمنطقی است.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "die Verschiebung",
+      "fa": "تغییر زمان / تعویق",
+      "structure": "die Verschiebung von + Dat.",
+      "example": "Wegen der Verschiebung müssen wir neu planen.",
+      "translation": "به دلیل تغییر زمان باید دوباره برنامه‌ریزی کنیم.",
+      "type": "Nomen"
+    },
+    {
+      "de": "die Themenbesprechung",
+      "fa": "بحث درباره موضوعات",
+      "structure": "die Themenbesprechung",
+      "example": "Die Themenbesprechung dauert eine Stunde.",
+      "translation": "بحث درباره موضوعات یک ساعت طول می‌کشد.",
+      "type": "Nomen"
+    },
+    {
+      "de": "die Jubiläumsveranstaltung",
+      "fa": "مراسم سالگرد",
+      "structure": "die Jubiläumsveranstaltung",
+      "example": "Die Jubiläumsveranstaltung findet am Freitag statt.",
+      "translation": "مراسم سالگرد جمعه برگزار می‌شود.",
+      "type": "Nomen"
+    },
+    {
+      "de": "die Rücksicht",
+      "fa": "ملاحظه",
+      "structure": "Rücksicht auf + Akk. nehmen",
+      "example": "Wir müssen Rücksicht auf andere nehmen.",
+      "translation": "باید ملاحظه دیگران را بکنیم.",
+      "type": "Nomen"
+    },
+    {
+      "de": "der Verlust",
+      "fa": "از دست دادن / ضرر",
+      "structure": "der Verlust von + Dat.",
+      "example": "Der Verlust von Daten kann teuer sein.",
+      "translation": "از دست دادن داده‌ها می‌تواند پرهزینه باشد.",
+      "type": "Nomen"
+    },
+    {
+      "de": "bewältigen / lösen",
+      "fa": "از عهده برآمدن / حل کردن",
+      "structure": "ein Problem bewältigen / lösen",
+      "example": "Wir müssen dieses Problem gemeinsam lösen.",
+      "translation": "باید این مشکل را با هم حل کنیم.",
+      "type": "Verb"
+    },
+    {
+      "de": "erzielen / erreichen",
+      "fa": "به دست آوردن / محقق کردن",
+      "structure": "ein Ergebnis erzielen / ein Ziel erreichen",
+      "example": "Wir wollen ein gutes Ergebnis erzielen.",
+      "translation": "می‌خواهیم نتیجه خوبی به دست آوریم.",
+      "type": "Verb"
+    },
+    {
+      "de": "bereichern / ergänzen",
+      "fa": "غنی کردن / تکمیل کردن",
+      "structure": "etwas bereichern / ergänzen",
+      "example": "Die neuen Ideen ergänzen das Konzept.",
+      "translation": "ایده‌های جدید مفهوم را تکمیل می‌کنند.",
+      "type": "Verb"
+    },
+    {
+      "de": "festlegen",
+      "fa": "تعیین کردن",
+      "structure": "etwas festlegen",
+      "example": "Wir legen den Termin gemeinsam fest.",
+      "translation": "ما زمان را با هم تعیین می‌کنیم.",
+      "type": "Verb"
+    },
+    {
+      "de": "ausarbeiten / entwickeln",
+      "fa": "تدوین کردن / توسعه دادن",
+      "structure": "etwas ausarbeiten / entwickeln",
+      "example": "Wir arbeiten einen neuen Plan aus.",
+      "translation": "ما یک برنامه جدید تدوین می‌کنیم.",
+      "type": "Verb"
+    },
+    {
+      "de": "einen Einblick bekommen",
+      "fa": "نگاهی / بینش پیدا کردن",
+      "structure": "Einblick in + Akk. bekommen",
+      "example": "Ich bekomme einen Einblick in die Arbeit der Abteilung.",
+      "translation": "من با کار بخش آشنا می‌شوم.",
+      "type": "Redemittel"
+    },
+    {
+      "de": "der Anlass",
+      "fa": "مناسبت / دلیل",
+      "structure": "Anlass für + Akk.",
+      "example": "Was ist der Anlass für die Veranstaltung?",
+      "translation": "دلیل برگزاری این رویداد چیست؟",
+      "type": "Nomen"
+    },
+    {
+      "de": "das Bestehen",
+      "fa": "قبولی / موفقیت در آزمون",
+      "structure": "das Bestehen der Prüfung",
+      "example": "Das Bestehen der Prüfung war für mich wichtig.",
+      "translation": "قبولی در امتحان برای من مهم بود.",
+      "type": "Nomen"
+    },
+    {
+      "de": "die Gartenwirtschaft",
+      "fa": "رستوران/باغ رستورانی فضای باز",
+      "structure": "in der Gartenwirtschaft",
+      "example": "Im Sommer sitzen wir gern in der Gartenwirtschaft.",
+      "translation": "تابستان دوست داریم در باغ رستورانی بنشینیم.",
+      "type": "Nomen"
+    },
+    {
+      "de": "der Badesee",
+      "fa": "دریاچه مناسب شنا",
+      "structure": "an den Badesee fahren",
+      "example": "Am Wochenende fahren wir an den Badesee.",
+      "translation": "آخر هفته به دریاچه شنا می‌رویم.",
+      "type": "Nomen"
+    },
+    {
+      "de": "räumen",
+      "fa": "جمع کردن / خالی کردن",
+      "structure": "etwas räumen",
+      "example": "Bitte räumen Sie den Tisch ab.",
+      "translation": "لطفاً میز را جمع کنید.",
+      "type": "Verb"
+    },
+    {
+      "de": "aufmerksam machen",
+      "fa": "توجه کسی را جلب کردن",
+      "structure": "jemanden auf + Akk. aufmerksam machen",
+      "example": "Ich möchte Sie auf ein Problem aufmerksam machen.",
+      "translation": "می‌خواهم توجه شما را به یک مشکل جلب کنم.",
+      "type": "Redemittel"
+    },
+    {
+      "de": "freistellen",
+      "fa": "از کار معاف کردن / مرخص کردن",
+      "structure": "jemanden von + Dat. freistellen",
+      "example": "Der Mitarbeiter wurde von der Arbeit freigestellt.",
+      "translation": "کارمند از کار معاف شد.",
+      "type": "Verb"
+    },
+    {
+      "de": "sich austoben",
+      "fa": "خود را تخلیه کردن / حسابی بازی و فعالیت کردن",
+      "structure": "sich austoben",
+      "example": "Die Kinder können sich draußen austoben.",
+      "translation": "بچه‌ها می‌توانند بیرون حسابی بازی و فعالیت کنند.",
+      "type": "Verb"
+    },
+    {
+      "de": "ausklingen lassen",
+      "fa": "به آرامی به پایان رساندن",
+      "structure": "etwas ausklingen lassen",
+      "example": "Wir lassen den Abend gemütlich ausklingen.",
+      "translation": "ما شب را به‌آرامی و با آرامش به پایان می‌رسانیم.",
+      "type": "Redemittel"
+    },
+    {
+      "de": "sich wenden",
+      "fa": "مراجعه کردن",
+      "structure": "sich an + Akk. wenden",
+      "example": "Bei Fragen können Sie sich an mich wenden.",
+      "translation": "در صورت سؤال می‌توانید به من مراجعه کنید.",
+      "type": "Verb"
+    },
+    {
+      "de": "zwölfwöchig",
+      "fa": "دوازده‌هفته‌ای",
+      "structure": "ein zwölfwöchiger Kurs",
+      "example": "Ich mache einen zwölfwöchigen Kurs.",
+      "translation": "من یک دوره دوازده‌هفته‌ای می‌گذرانم.",
+      "type": "Adjektiv"
+    },
+    {
+      "de": "bereitgestellt",
+      "fa": "فراهم‌شده / در دسترس قرار داده‌شده",
+      "structure": "bereitgestellt werden",
+      "example": "Die Unterlagen werden online bereitgestellt.",
+      "translation": "مدارک به صورت آنلاین در دسترس قرار داده می‌شوند.",
+      "type": "Adjektiv/Partizip II"
+    },
+    {
+      "de": "wohlverdient",
+      "fa": "کاملاً سزاوار / حقِ خود",
+      "structure": "wohlverdient sein",
+      "example": "Das ist ein wohlverdienter Urlaub.",
+      "translation": "این یک تعطیلات کاملاً سزاوار است.",
+      "type": "Adjektiv"
+    }
+  ]
+}
